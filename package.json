@@ -1,0 +1,11 @@
+{
+  "name": "projeto_final_link_bio_neymar_jr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas",
+  "license": "ISC"
+}
